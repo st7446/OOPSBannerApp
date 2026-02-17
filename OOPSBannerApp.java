@@ -1,9 +1,4 @@
-/**
- * UC4: print OOPS in Banner Format using array
- *
- * @author sai-baibhab
- * @version 1.0
- */
+
 public class UC4printBanner {
 
     public static void main(String[] args) {
